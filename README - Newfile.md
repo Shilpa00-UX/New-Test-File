@@ -20,3 +20,13 @@ Creating an ordered/unordered list for Github Workflow.
 4. Create Pull Request.  
 5. Merge Pull Request.  
 6. Great! You are Done!! :smile:  
+
+
+
+
+
+**Things to focus on:**
+- [ ] Introduction about GitHub and Git
+- [ ] Getting started with GitHub
+- [ ] Learn markdown syntax for GitHub
+- [ ] Learn how to create readme files, commit changes, create pull requests and merge pull requests.
